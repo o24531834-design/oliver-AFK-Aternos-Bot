@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kukikaki.aternos.me",
+    "ip": "cod.aternos.host",
     "port": 56820,
     "version": "",
     "try-creative": false
